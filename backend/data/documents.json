@@ -1,0 +1,95 @@
+[
+  {
+    "id": "b8976a81-ec27-44fb-9c3a-536f11e7eb97",
+    "userId": "42f9b1ff-ece6-48ba-8d8f-252fcf6fba68",
+    "filename": "ai-introduction.txt",
+    "content": "Introduction to Artificial Intelligence\n\nArtificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines that can think and act like humans. The field of AI has been evolving rapidly since its inception in the 1950s.\n\nHistory of AI\nThe term \"artificial intelligence\" was first coined by John McCarthy in 1956 at the Dartmouth Conference. Early AI research focused on problem-solving and symbolic methods. In the 1980s, machine learning became popular, and in the 1990s, statistical approaches gained prominence.\n\nTypes of AI\nAI can be categorized into different types:\n\n1. Narrow AI (Weak AI): This type of AI is designed to perform specific tasks. Examples include voice assistants like Siri and Alexa, recommendation systems, and image recognition software.\n\n2. General AI (Strong AI): This refers to AI systems that possess human-level cognitive abilities across all domains. General AI remains theoretical and has not been achieved yet.\n\n3. Superintelligence: This hypothetical type of AI would surpass human intelligence in all aspects.\n\nMachine Learning\nMachine learning is a subset of AI that enables computers to learn and improve from experience without being explicitly programmed. There are three main types of machine learning:\n\n- Supervised Learning: Uses labeled data to train models\n- Unsupervised Learning: Finds patterns in unlabeled data\n- Reinforcement Learning: Learns through interaction with an environment\n\nDeep Learning\nDeep learning is a subset of machine learning that uses neural networks with multiple layers. It has been particularly successful in image recognition, natural language processing, and game playing.\n\nApplications of AI\nAI has numerous applications across various industries:\n\n- Healthcare: Medical diagnosis, drug discovery, personalized treatment\n- Finance: Fraud detection, algorithmic trading, credit scoring\n- Transportation: Autonomous vehicles, traffic optimization\n- Entertainment: Content recommendation, game AI\n- Manufacturing: Quality control, predictive maintenance\n\nChallenges and Ethics\nAI development faces several challenges:\n- Data privacy and security concerns\n- Algorithmic bias and fairness\n- Job displacement fears\n- Need for explainable AI\n- Ensuring AI safety and alignment with human values\n\nFuture of AI\nThe future of AI holds great promise but also significant challenges. As AI systems become more capable, it's crucial to ensure they are developed and deployed responsibly, with proper consideration for their impact on society.\n\nAI research continues to advance rapidly, with new breakthroughs in areas like natural language processing, computer vision, and robotics. The integration of AI into everyday life is expected to continue growing, transforming how we work, communicate, and live.\n",
+    "chunks": [
+      {
+        "id": "d877755b-b759-46f7-b46c-7605f325de94",
+        "content": "Introduction to Artificial Intelligence\n\nArtificial Intelligence (AI) is a branch of computer science that aims to create intelligent machines that can think and act like humans.  The field of AI has been evolving rapidly since its inception in the 1950s. \n\nHistory of AI\nThe term \"artificial intelligence\" was first coined by John McCarthy in 1956 at the Dartmouth Conference.  Early AI research focused on problem-solving and symbolic methods",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      },
+      {
+        "id": "d6b7cecd-f56d-4da6-a969-63ca3ace0a44",
+        "content": "In the 1980s, machine learning became popular, and in the 1990s, statistical approaches gained prominence. \n\nTypes of AI\nAI can be categorized into different types:\n\n1.  Narrow AI (Weak AI): This type of AI is designed to perform specific tasks.  Examples include voice assistants like Siri and Alexa, recommendation systems, and image recognition software. \n\n2.  General AI (Strong AI): This refers to AI systems that possess human-level cognitive abilities across all domains",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      },
+      {
+        "id": "483b0777-af22-41e2-b72c-3c2e6dbf4f1b",
+        "content": "General AI remains theoretical and has not been achieved yet. \n\n3.  Superintelligence: This hypothetical type of AI would surpass human intelligence in all aspects. \n\nMachine Learning\nMachine learning is a subset of AI that enables computers to learn and improve from experience without being explicitly programmed",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      },
+      {
+        "id": "90102cd9-68e3-4985-93b0-378a31a97438",
+        "content": "There are three main types of machine learning:\n\n- Supervised Learning: Uses labeled data to train models\n- Unsupervised Learning: Finds patterns in unlabeled data\n- Reinforcement Learning: Learns through interaction with an environment\n\nDeep Learning\nDeep learning is a subset of machine learning that uses neural networks with multiple layers.  It has been particularly successful in image recognition, natural language processing, and game playing",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      },
+      {
+        "id": "fe637dfe-1cbe-459a-91b0-12ce9488d3d7",
+        "content": "Applications of AI\nAI has numerous applications across various industries:\n\n- Healthcare: Medical diagnosis, drug discovery, personalized treatment\n- Finance: Fraud detection, algorithmic trading, credit scoring\n- Transportation: Autonomous vehicles, traffic optimization\n- Entertainment: Content recommendation, game AI\n- Manufacturing: Quality control, predictive maintenance\n\nChallenges and Ethics\nAI development faces several challenges:\n- Data privacy and security concerns\n- Algorithmic bias and fairness\n- Job displacement fears\n- Need for explainable AI\n- Ensuring AI safety and alignment with human values\n\nFuture of AI\nThe future of AI holds great promise but also significant challenges",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      },
+      {
+        "id": "cdaf362f-838b-499c-b419-2a6409a0dfe2",
+        "content": "As AI systems become more capable, it's crucial to ensure they are developed and deployed responsibly, with proper consideration for their impact on society. \n\nAI research continues to advance rapidly, with new breakthroughs in areas like natural language processing, computer vision, and robotics.  The integration of AI into everyday life is expected to continue growing, transforming how we work, communicate, and live",
+        "createdAt": "2025-09-13T12:02:38.685Z"
+      }
+    ],
+    "createdAt": "2025-09-13T12:02:38.685Z"
+  },
+  {
+    "id": "3908d468-b221-4fd1-acec-e3cc6e44fbf5",
+    "userId": "42f9b1ff-ece6-48ba-8d8f-252fcf6fba68",
+    "filename": "climate-change.txt",
+    "content": "Climate Change: Understanding the Global Challenge\n\nClimate change refers to long-term shifts in global or regional climate patterns. It is primarily attributed to increased levels of greenhouse gases in the atmosphere due to human activities, particularly the burning of fossil fuels.\n\nThe Science Behind Climate Change\n\nThe greenhouse effect is a natural process that warms Earth's surface. Solar radiation passes through the atmosphere and warms the Earth's surface. The Earth then emits this energy as infrared radiation, which is absorbed by greenhouse gases in the atmosphere, trapping heat and warming the planet.\n\nKey greenhouse gases include:\n- Carbon dioxide (CO2): The most significant contributor, primarily from burning fossil fuels\n- Methane (CH4): Released from agriculture, landfills, and natural gas production\n- Nitrous oxide (N2O): Mainly from agricultural practices and fossil fuel combustion\n- Fluorinated gases: Used in refrigeration and industrial processes\n\nEvidence of Climate Change\n\nMultiple lines of evidence confirm that Earth's climate is changing:\n\nTemperature Records: Global average temperatures have risen by approximately 1.1°C since the late 19th century. The last decade included the warmest years on record.\n\nIce Loss: Arctic sea ice is declining at a rate of 13% per decade. The Greenland and Antarctic ice sheets are losing mass, contributing to sea level rise.\n\nSea Level Rise: Global sea levels have risen about 20 centimeters since 1900, with the rate of increase accelerating in recent decades.\n\nExtreme Weather: There has been an increase in frequency and intensity of extreme weather events, including heatwaves, droughts, wildfires, and severe storms.\n\nImpacts of Climate Change\n\nEnvironmental Impacts:\n- Ecosystem disruption and species migration\n- Ocean acidification due to increased CO2 absorption\n- Changes in precipitation patterns\n- Melting of polar ice and glaciers\n\nHuman Impacts:\n- Agricultural productivity changes affecting food security\n- Water scarcity in some regions and flooding in others\n- Health impacts from heat stress and vector-borne diseases\n- Economic costs from extreme weather damage\n- Displacement of populations from sea level rise and extreme weather\n\nMitigation Strategies\n\nReducing greenhouse gas emissions is crucial for limiting climate change:\n\nEnergy Transition:\n- Shift to renewable energy sources (solar, wind, hydroelectric)\n- Improve energy efficiency in buildings and transportation\n- Phase out coal-fired power plants\n\nTransportation:\n- Promote electric vehicles and public transportation\n- Improve fuel efficiency standards\n- Develop sustainable aviation and shipping fuels\n\nIndustry and Agriculture:\n- Implement cleaner production processes\n- Develop carbon capture and storage technologies\n- Adopt sustainable farming practices\n- Reduce food waste\n\nAdaptation Measures\n\nWhile mitigation is essential, adaptation to climate change impacts is also necessary:\n\nInfrastructure:\n- Build sea walls and flood defenses\n- Design climate-resilient buildings and transportation systems\n- Develop drought-resistant water supply systems\n\nAgriculture:\n- Develop climate-adapted crop varieties\n- Improve irrigation efficiency\n- Implement sustainable land management practices\n\nEcosystem Management:\n- Protect and restore natural habitats\n- Create wildlife corridors for species migration\n- Conserve water resources\n\nInternational Cooperation\n\nClimate change is a global problem requiring international cooperation:\n\nParis Agreement: Nearly 200 countries committed to limiting global warming to well below 2°C above pre-industrial levels, with efforts to limit it to 1.5°C.\n\nClimate Finance: Developed countries pledged to provide financial support to developing nations for climate mitigation and adaptation efforts.\n\nTechnology Transfer: Sharing clean technologies and knowledge between countries is essential for global climate action.\n\nIndividual Actions\n\nWhile systemic change is crucial, individual actions can also contribute:\n- Reduce energy consumption at home\n- Use public transportation or electric vehicles\n- Choose sustainable food options\n- Support renewable energy initiatives\n- Advocate for climate policies\n\nThe Path Forward\n\nAddressing climate change requires urgent, coordinated action at all levels of society. The scientific consensus is clear: immediate and substantial reductions in greenhouse gas emissions are necessary to avoid the worst impacts of climate change. The transition to a low-carbon economy presents both challenges and opportunities for innovation, job creation, and sustainable development.\n",
+    "chunks": [
+      {
+        "id": "ac197622-82cc-4702-9128-b62c324be19b",
+        "content": "Climate Change: Understanding the Global Challenge\n\nClimate change refers to long-term shifts in global or regional climate patterns.  It is primarily attributed to increased levels of greenhouse gases in the atmosphere due to human activities, particularly the burning of fossil fuels. \n\nThe Science Behind Climate Change\n\nThe greenhouse effect is a natural process that warms Earth's surface.  Solar radiation passes through the atmosphere and warms the Earth's surface",
+        "createdAt": "2025-09-13T12:02:43.061Z"
+      },
+      {
+        "id": "87801010-4e86-4edc-8655-0972afca4eaf",
+        "content": "The Earth then emits this energy as infrared radiation, which is absorbed by greenhouse gases in the atmosphere, trapping heat and warming the planet",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "aeb2183b-d2bf-46bc-9cdb-11cd6365f13b",
+        "content": "Key greenhouse gases include:\n- Carbon dioxide (CO2): The most significant contributor, primarily from burning fossil fuels\n- Methane (CH4): Released from agriculture, landfills, and natural gas production\n- Nitrous oxide (N2O): Mainly from agricultural practices and fossil fuel combustion\n- Fluorinated gases: Used in refrigeration and industrial processes\n\nEvidence of Climate Change\n\nMultiple lines of evidence confirm that Earth's climate is changing:\n\nTemperature Records: Global average temperatures have risen by approximately 1",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "851b531b-5847-49ab-bce7-acf5ddc5edbf",
+        "content": "1°C since the late 19th century.  The last decade included the warmest years on record. \n\nIce Loss: Arctic sea ice is declining at a rate of 13% per decade.  The Greenland and Antarctic ice sheets are losing mass, contributing to sea level rise. \n\nSea Level Rise: Global sea levels have risen about 20 centimeters since 1900, with the rate of increase accelerating in recent decades",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "a54749ba-2e28-4a35-ba84-803a5d96875e",
+        "content": "Extreme Weather: There has been an increase in frequency and intensity of extreme weather events, including heatwaves, droughts, wildfires, and severe storms",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "35317507-ef28-41f9-b54e-d4797e54305b",
+        "content": "Impacts of Climate Change\n\nEnvironmental Impacts:\n- Ecosystem disruption and species migration\n- Ocean acidification due to increased CO2 absorption\n- Changes in precipitation patterns\n- Melting of polar ice and glaciers\n\nHuman Impacts:\n- Agricultural productivity changes affecting food security\n- Water scarcity in some regions and flooding in others\n- Health impacts from heat stress and vector-borne diseases\n- Economic costs from extreme weather damage\n- Displacement of populations from sea level rise and extreme weather\n\nMitigation Strategies\n\nReducing greenhouse gas emissions is crucial for limiting climate change:\n\nEnergy Transition:\n- Shift to renewable energy sources (solar, wind, hydroelectric)\n- Improve energy efficiency in buildings and transportation\n- Phase out coal-fired power plants\n\nTransportation:\n- Promote electric vehicles and public transportation\n- Improve fuel efficiency standards\n- Develop sustainable aviation and shipping fuels\n\nIndustry and Agriculture:\n- Implement cleaner production processes\n- Develop carbon capture and storage technologies\n- Adopt sustainable farming practices\n- Reduce food waste\n\nAdaptation Measures\n\nWhile mitigation is essential, adaptation to climate change impacts is also necessary:\n\nInfrastructure:\n- Build sea walls and flood defenses\n- Design climate-resilient buildings and transportation systems\n- Develop drought-resistant water supply systems\n\nAgriculture:\n- Develop climate-adapted crop varieties\n- Improve irrigation efficiency\n- Implement sustainable land management practices\n\nEcosystem Management:\n- Protect and restore natural habitats\n- Create wildlife corridors for species migration\n- Conserve water resources\n\nInternational Cooperation\n\nClimate change is a global problem requiring international cooperation:\n\nParis Agreement: Nearly 200 countries committed to limiting global warming to well below 2°C above pre-industrial levels, with efforts to limit it to 1",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "08a95ed4-a466-4311-9f30-c93ad65d4cec",
+        "content": "5°C. \n\nClimate Finance: Developed countries pledged to provide financial support to developing nations for climate mitigation and adaptation efforts. \n\nTechnology Transfer: Sharing clean technologies and knowledge between countries is essential for global climate action",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "3fbc378f-c67e-49f0-a0b6-96d7a2190d12",
+        "content": "Individual Actions\n\nWhile systemic change is crucial, individual actions can also contribute:\n- Reduce energy consumption at home\n- Use public transportation or electric vehicles\n- Choose sustainable food options\n- Support renewable energy initiatives\n- Advocate for climate policies\n\nThe Path Forward\n\nAddressing climate change requires urgent, coordinated action at all levels of society",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      },
+      {
+        "id": "cdefb8fe-79c1-40dc-9997-c8b948982613",
+        "content": "The scientific consensus is clear: immediate and substantial reductions in greenhouse gas emissions are necessary to avoid the worst impacts of climate change.  The transition to a low-carbon economy presents both challenges and opportunities for innovation, job creation, and sustainable development",
+        "createdAt": "2025-09-13T12:02:43.062Z"
+      }
+    ],
+    "createdAt": "2025-09-13T12:02:43.062Z"
+  }
+]
